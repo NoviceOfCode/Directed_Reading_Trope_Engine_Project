@@ -1,0 +1,7 @@
+# Ignore checkpoints
+ipynb_checkpoints/
+
+# Ignore idea
+
+# Ignore CSV data for now
+*.csv
